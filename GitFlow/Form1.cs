@@ -21,5 +21,10 @@ namespace GitFlow
         {
             MessageBox.Show("First feature!");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Second feature!");
+        }
     }
 }
