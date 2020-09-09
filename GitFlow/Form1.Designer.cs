@@ -48,7 +48,7 @@
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(119, 23);
             this.button2.TabIndex = 1;
-            this.button2.Text = "SecondClik";
+            this.button2.Text = "SecondClick";
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
